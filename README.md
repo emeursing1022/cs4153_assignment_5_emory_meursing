@@ -1,4 +1,4 @@
-# cs4153_assignment_5_emory_meursing
+# CS4153 Assignment 5 Emory Meursing
 
 CS4153 Assignment 5 Emory Meursing
 
